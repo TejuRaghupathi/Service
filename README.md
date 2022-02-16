@@ -1,3 +1,16 @@
+# Service Booking.
+
+This project was created with the intention to support my friends workplace during my free time
+
+This app is supposed to replace the manual work done by the boss while booking the car services and scheduling theh appointments with the customers.
+I have used material UI for styling.
+There is only frontend is present and so much work to have it completedly set up.
+As a future update, Planning to integrate withh cloud notification with AWS and database 
+
+
+
+..........................................................................................................
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
